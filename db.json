@@ -228,104 +228,103 @@
       }
    ],
    "department":
-   [
-      {
+  [{
     "site":"65 Park Lane",
-    "siteIsActive":"false",
+    "siteIsActive":false,
     "department":"65 Ground Reception",
-    "departmentIsActive":"true"
+    "departmentIsActive":true
 
 },
 {
   
     "site":"Windhoek",
-    "siteIsActive":"true",
+    "siteIsActive":true,
     "department":"test3",
-    "departmentIsActive":"false"
+    "departmentIsActive":false
 },
 {
   
     "site":"65 Park Lane",
-    "siteIsActive":"false",
+    "siteIsActive":false,
     "department":"65 Ground The Brew House",
-    "departmentIsActive":"true"
+    "departmentIsActive":true
 },
 {
   
     "site":"Windhoek",
-    "siteIsActive":"true",
+    "siteIsActive":true,
     "department":"test4",
-    "departmentIsActive":"false"
+    "departmentIsActive":false
 },
 {
   
     "site":"Windhoek",
-    "siteIsActive":"true",
+    "siteIsActive":true,
     "department":"test5",
-    "departmentIsActive":"false"
+    "departmentIsActive":false
 },
 {
   
     "site":"Windhoek",
-    "siteIsActive":"true",
+    "siteIsActive":true,
     "department":"test6",
-    "departmentIsActive":"false"
+    "departmentIsActive":false
 },
 {
   
     "site":"Windhoek",
-    "siteIsActive":"true",
+    "siteIsActive":true,
     "department":"65 Park, Grid,South,Budweiser,(10)",
-    "departmentIsActive":"true"
+    "departmentIsActive":true
 },
 {
   
     "site":"65 Park Lane",
-    "siteIsActive":"false",
+    "siteIsActive":false,
     "department":"65 Ground Kitchen Area",
-    "departmentIsActive":"true"
+    "departmentIsActive":true
 },
 
 {
   
     "site":"Windhoek",
-    "siteIsActive":"true",
+    "siteIsActive":true,
     "department":"Ground Floor Triple Lift Male Toilets",
-    "departmentIsActive":"true"
+    "departmentIsActive":true
 },
 {
   
     "site":"65 Park Lane",
-    "siteIsActive":"false",
+    "siteIsActive":false,
     "department":"65 Ground Kitchen Area",
-    "departmentIsActive":"true"
+    "departmentIsActive":true
 },
 {
   
     "site":"Windhoek",
-    "siteIsActive":"true",
+    "siteIsActive":true,
     "department":"Ground Floor Triple Lift Male Toilets",
-    "departmentIsActive":"true"
+    "departmentIsActive":true
 },
 {
   
     "site":"Windhoek",
-    "siteIsActive":"false",
+    "siteIsActive":false,
     "department":"65 Park, Grid,South,Budweiser,(10)",
-    "departmentIsActive":"true"
+    "departmentIsActive":true
 },
 {
   
     "site":"Windhoek",
-    "siteIsActive":"true",
+    "siteIsActive":true,
     "department":"Ground Floor Marketing Male Toilets",
-    "departmentIsActive":"true"
+    "departmentIsActive":true
 },
 {
   
     "site":"65 Park Lane",
-    "siteIsActive":"false",
+    "siteIsActive":false,
     "department":"65 Park,Grid South Stella,(10)",
-    "departmentIsActive":"true"}
+    "departmentIsActive":true}
 ]
 }
