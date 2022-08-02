@@ -1,134 +1,134 @@
 {
    "organogram":[
-      {
-         "Region":"ABI Central Office",
-         "Region is Active":"false",
-         "Site":"COF ABI:ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      },
-      {
-         "Region":"ABI Central Region",
-         "Region is Active":"false",
-         "Site":"Bedford S&D:ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      },
-      {
-         "Region":"ABI Central Region",
-         "Region is Active":"false",
-         "Site":"Benrose S&D:ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      },
-      {
-         "Region":"ABI Central Region",
-         "Region is Active":"false",
-         "Site":"Dev S&D SS Old:ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      },
-      {
-         "Region":"ABI Central Region",
-         "Region is Active":"false",
-         "Site":"Devland S&D Old:ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      },
-      {
-         "Region":"ABI Central Region",
-         "Region is Active":"false",
-         "Site":"Midrand S&D:ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      },
-      {
-         "Region":"ABI Central Region",
-         "Region is Active":"false",
-         "Site":"S Gauteng R O:ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      },
-      {
-         "Region":"ABI Devland Manufacturing",
-         "Region is Active":"false",
-         "Site":"Dev Manut:ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      },
-      {
-         "Region":"ABI KZN Region",
-         "Region is Active":"false",
-         "Site":"KZN Region:ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      },
-      {
-         "Region":"ABI KZN Region",
-         "Region is Active":"false",
-         "Site":"Ladysmith:ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      },
-      {
-         "Region":"ABI KZN Region",
-         "Region is Active":"false",
-         "Site":"Newcastle:ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      },
-      {
-         "Region":"ABI KZN Region",
-         "Region is Active":"false",
-         "Site":"Phoenic:ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      },
-      {
-         "Region":"ABI KZN Region",
-         "Region is Active":"false",
-         "Site":"Pierermaritz:ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      },
-      {
-         "Region":"ABI KZN Region",
-         "Region is Active":"flase",
-         "Site":"Premier:ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      },
-      {
-         "Region":"ABI KZN Region",
-         "Region is Active":"false",
-         "Site":"Richards Bay:ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      },
-      {
-         "Region":"ABI KZN Region",
-         "Region is Active":"false",
-         "Site":"Vryheid :ABI",
-         "Site is Active":"false",
-         "Department":"",
-         "Department is Active":"false"
-      }
-   ],
+   {
+      "region":"ABI Central Office",
+      "regionIsActive":false,
+      "site":"COF ABI:ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   },
+   {
+      "region":"ABI Central Region",
+      "regionIsActive":false,
+      "site":"Bedford S&D:ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   },
+   {
+      "region":"ABI Central Region",
+      "regionIsActive":false,
+      "site":"Benrose S&D:ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   },
+   {
+      "region":"ABI Central Region",
+      "regionIsActive":false,
+      "site":"Dev S&D SS Old:ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   },
+   {
+      "region":"ABI Central Region",
+      "regionIsActive":false,
+      "site":"Devland S&D Old:ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   },
+   {
+      "region":"ABI Central Region",
+      "regionIsActive":false,
+      "site":"Midrand S&D:ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   },
+   {
+      "region":"ABI Central Region",
+      "regionIsActive":false,
+      "site":"S Gauteng R O:ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   },
+   {
+      "region":"ABI Devland Manufacturing",
+      "regionIsActive":false,
+      "site":"Dev Manut:ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   },
+   {
+      "region":"ABI KZN Region",
+      "regionIsActive":false,
+      "site":"KZN Region:ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   },
+   {
+      "region":"ABI KZN Region",
+      "regionIsActive":false,
+      "site":"Ladysmith:ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   },
+   {
+      "region":"ABI KZN Region",
+      "regionIsActive":false,
+      "site":"Newcastle:ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   },
+   {
+      "region":"ABI KZN Region",
+      "regionIsActive":false,
+      "site":"Phoenic:ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   },
+   {
+      "region":"ABI KZN Region",
+      "regionIsActive":false,
+      "site":"Pierermaritz:ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   },
+   {
+      "region":"ABI KZN Region",
+      "regionIsActive":false,
+      "site":"Premier:ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   },
+   {
+      "region":"ABI KZN Region",
+      "regionIsActive":false,
+      "site":"Richards Bay:ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   },
+   {
+      "region":"ABI KZN Region",
+      "regionIsActive":false,
+      "site":"Vryheid :ABI",
+      "siteIsActive":false,
+      "department":"",
+      "departmentIsActive":false
+   }
+],
    "sites":[
       {
          "region":"ABI Central Office",
