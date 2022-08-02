@@ -1,0 +1,100 @@
+{
+  "sites":[
+      {
+         "region":"ABI Central Office",
+         "regionIsActive":true,
+         "site":"COF ABI:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":true,
+         "site":"Bedford S&D:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":true,
+         "site":"Benrose S&D:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":true,
+         "site":"Dev S&D SS Old:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":true,
+         "site":"Devland S&D Old:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":true,
+         "site":"Midrand S&D:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":true,
+         "site":"S Gauteng R O:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI Devland Manufacturing",
+         "regionIsActive":true,
+         "site":"Dev Manut:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"KZN Region:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"Ladysmith:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"Newcastle:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"Phoenic:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"Pierermaritz:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"Premier:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"Richards Bay:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"Vryheid :ABI",
+         "siteIsActive":false
+      }
+   ]
+}
