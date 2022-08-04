@@ -229,13 +229,6 @@
    ],
    "department":
   [
-      {
-    "site":"",
-    "siteIsActive":"",
-    "department":"",
-    "departmentIsActive":""
-
-},
      {
     "site":"65 Park Lane",
     "siteIsActive":false,
